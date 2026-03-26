@@ -47,28 +47,7 @@ ROC-AUC of 0.745 is promising but class imbalance (85/15 split) limits precision
 
 ---
 
-## 📁 Repository Structure
 
-```
-british-airways-ml-booking/
-│
-├── README.md
-├── requirements.txt
-│
-├── notebooks/
-│   ├── task1_lounge_eligibility.ipynb       # Lookup table — 8 groupings, 3 tiers, Heathrow T3
-│   └── task2_booking_prediction_model.ipynb # Random Forest model — 50k records, 17 features
-│
-├── outputs/
-│   ├── feature_importance.png
-│   ├── roc_curve.png
-│   └── confusion_matrix.png
-│
-└── presentation/
-    └── BA_Booking_Prediction_Model.pptx
-```
-
----
 
 ## 🛠️ Tech Stack
 
